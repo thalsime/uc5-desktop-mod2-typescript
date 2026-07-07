@@ -1,0 +1,15 @@
+{
+  "name": "uc5-desktop-mod2-typescript",
+  "version": "1.0.0",
+  "description": "Exercícios de tipagem estática e programação assíncrona em TypeScript puro",
+  "scripts": {
+    "build": "tsc",
+    "ex01": "node dist/exercicio_01_modelagem.js",
+    "ex02": "node dist/exercicio_02_busca.js",
+    "ex03": "node dist/exercicio_03_validacao.js",
+    "ex04": "node dist/exercicio_04_promises.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
