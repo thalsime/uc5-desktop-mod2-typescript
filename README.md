@@ -1,15 +1,16 @@
 # UC5 - Exercícios Módulo 2: TypeScript
 
-Exercícios de tipagem estática, utilitários de tipo e programação assíncrona em
-TypeScript puro (sem framework). Cada arquivo em `src/` é auto-contido.
+Exercícios de tipagem estática, interfaces, funções tipadas e programação
+assíncrona em TypeScript puro (sem framework). Cada arquivo em `src/` é
+auto-contido.
 
 ## Exercícios
 
 | Arquivo                       | Conteúdo                                              |
 |-------------------------------|-------------------------------------------------------|
-| `exercicio_01_modelagem.ts`   | Modelagem com `interface` e `enum`; cálculo de estoque |
+| `exercicio_01_modelagem.ts`   | Modelagem relacional com `interface` e chave estrangeira; cálculo de estoque |
 | `exercicio_02_busca.ts`       | Busca por texto com tipagem de parâmetros e retorno    |
-| `exercicio_03_validacao.ts`   | Validação com utilitário de tipo `Omit<>`              |
+| `exercicio_03_validacao.ts`   | Validação de formulário com interface de erros         |
 | `exercicio_04_promises.ts`    | `Promise` tipada e `async/await`                       |
 
 ## Como usar
